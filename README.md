@@ -1,6 +1,6 @@
 # MAMBot
 
-Provided is a functional proof of concept of a headless Monster & Me 2.5 client. This code is the conclusion to many years of playing and reverse engineering Monster & Me. This project itself was written in the span of 3 weeks as a project to learn Java and get a functional packet client and bot finally working.
+Provided is a functional proof of concept of a headless Monster & Me 2.5 client and bot. This code is the conclusion to many years of playing and reverse engineering Monster & Me. This project itself was written in the span of 3 weeks as a project to learn Java and get a functional packet client and bot finally working.
 
 Provided is code for packet encryption/decrpytion, many classes for game objects, packet structure classes, a class for path finding/moving maps, a packet event system, a class for leveling a master god from 1-800 (takes about 25 minutes), a rudimentary class to intercept game messages to execute functions within the bot, an expiremental class that gathers Hunting Drugs, packet structure class, and socket with built in encryption/decryption using Monster and Me's encryption/decription algorithms
 
